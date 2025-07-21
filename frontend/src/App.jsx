@@ -32,7 +32,7 @@ import Notifications from './pages/Notifications.jsx'
 import { setSelectedUser } from './redux/messageSlice.js'
 import { setNotificationData } from './redux/userSlice.js'
 
-export const serverUrl = "https://social-media-vybe-backend.onrender.com";
+export const serverUrl = "https://vybe-backend-v18b.onrender.com";
 
 const App = () => {
 
