@@ -15,7 +15,7 @@ dotenv.config();
 
 
 app.use(cors({
-  origin: 'https://social-media-vybe-frontendd.onrender.com',
+  origin: 'https://vybe-3j4l.onrender.com',
   credentials: true,
 }));
 app.use(express.json());
